@@ -1,14 +1,18 @@
 # Ignore Python bytecode files
 *.pyc
 *.pyo
-__pycache__
+__pycache__/
+
+# Ignore .env file for security reasons
+.env
 
 # Ignore virtual environment folder
 cenv/
 
-# Ignore IDE or editor files
+# Ignore .vscode and .idea folders
 .vscode/
 .idea/
 
-# Ignore .env file for security reasons
-.env
+# Ignore any test files in app directory
+app/test/
+app/__pycache__/
