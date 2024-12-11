@@ -1,7 +1,7 @@
-Certainly! Below is the **README.md** file for **Task 1: CRUD Operations API** based on the user and order data, similar to how we structured the LLM Task 2 readme:
+CRUD Operations API based on the user and order data
 ---
 
-### **image for CRUD OPERATIONS:
+### CRUD OPERATIONS:
 ![CRUD](https://github.com/user-attachments/assets/e488ead2-ab18-47ab-bc9a-26b29424592e)
 
 
