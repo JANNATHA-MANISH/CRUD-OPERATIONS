@@ -1,4 +1,11 @@
 Certainly! Below is the **README.md** file for **Task 1: CRUD Operations API** based on the user and order data, similar to how we structured the LLM Task 2 readme:
+---
+
+### **image for CRUD OPERATIONS:
+![CRUD](https://github.com/user-attachments/assets/e488ead2-ab18-47ab-bc9a-26b29424592e)
+
+
+---
 
 ---
 
@@ -214,12 +221,6 @@ Once the containers are up, the application will be available at `http://localho
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-### **image for CRUD OPERATIONS:
-![CRUD](https://github.com/user-attachments/assets/e488ead2-ab18-47ab-bc9a-26b29424592e)
-
-
----
 
 This **README** provides the necessary details to run and test the **CRUD Operations API** for managing users and orders, and integrates with PostgreSQL.
